@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Conoce Dragones y Mazmorras",
+    "description": "",
+    "home_page_url": "https://github.com/Fixius50/pagina-web-publii",
+    "feed_url": "https://github.com/Fixius50/pagina-web-publii/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Roberto Monedero Alonso"
+    },
+    "items": [
+    ]
+}
